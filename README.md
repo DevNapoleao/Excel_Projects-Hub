@@ -53,7 +53,7 @@ Rentabilidade passada não garante rentabilidade futura. Os valores usados na pl
 
 ## Autor
 
-**[Seu nome]**
-[LinkedIn](https://www.linkedin.com/in/seu-perfil) | [E-mail](mailto:seu@email.com)
+**[Napoleão]**
+[LinkedIn]https://www.linkedin.com/in/napole%C3%A3o-analista-04a955444/ | [E-mail]devnapoleao@gmail.com / NapoleaoDev@hotmail.com
 
 Se o projeto foi útil para você, deixe uma estrela no repositório.
