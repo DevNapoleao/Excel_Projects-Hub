@@ -1,6 +1,7 @@
 # BABU | Simulador de Investimentos em FIIs
 
-![Visão geral do projeto](imagens/painel.png)
+![Visão geral do projeto](<img width="1411" height="794" alt="Captura de tela 2026-11-11 230136" src="https://github.com/user-attachments/assets/eda31ed0-6586-46ca-944f-88963f770bdf" />
+)
 
 Planilha em Excel para **planejar, simular e acompanhar investimentos em Fundos Imobiliários (FIIs)**. Com poucas informações, ela mostra quanto patrimônio você pode acumular e quanto pode receber de dividendos por mês em diferentes horizontes de tempo.
 
